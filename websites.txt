@@ -1,0 +1,87 @@
+================================================================================
+Web Security Crawl Session - 2024-06-19T14:32:18.123456
+================================================================================
+
+[SECURE] https://en.wikipedia.org/wiki/Main_Page | Main Page - Wikipedia
+[SECURE] https://en.wikipedia.org/wiki/Portal:Contents | Portal:Contents - Wikipedia
+[SECURE] https://en.wikipedia.org/wiki/Portal:Featured_content | Portal:Featured content - Wikipedia
+[SECURE] https://en.wikipedia.org/wiki/Portal:Current_events | Portal:Current events - Wikipedia
+[INSECURE] http://oldsite.example.com | Legacy Site | ERROR: CONNECTION_ERROR
+[SECURE] https://www.bbc.com/news | BBC News - Breaking news and current affairs
+[SECURE] https://www.bbc.com/sport | BBC Sport - Sports news and live coverage
+[SECURE] https://www.reddit.com | Reddit - Dive into anything
+[SECURE] https://www.reddit.com/r/programming | programming - Software development
+[SECURE] https://news.ycombinator.com | Hacker News
+[SECURE] https://news.ycombinator.com/newest | Newest submissions
+[SECURE] https://github.com/explore | Explore GitHub
+[SECURE] https://github.com/trending | Trending repositories
+[SECURE] https://stackoverflow.com/questions | Newest Questions - Stack Overflow
+[SECURE] https://stackoverflow.com/tags | Tags - Stack Overflow
+[INSECURE] http://legacy-api.example.com/v1 | Legacy API Endpoint
+[SECURE] https://medium.com | Medium – Where good ideas find you
+[SECURE] https://medium.com/tag/technology | Technology on Medium
+[SECURE] https://dev.to | DEV Community
+[SECURE] https://dev.to/t/webdev | Web Development - DEV Community
+[SECURE] https://www.nytimes.com | The New York Times - Breaking News
+[SECURE] https://www.nytimes.com/section/world | World News
+[SECURE] https://www.theguardian.com | News, sport and opinion from the Guardian
+[SECURE] https://www.theguardian.com/international | International edition
+[SECURE] https://stackoverflow.com/users | Users - Stack Overflow
+[SECURE] https://github.com/marketplace | GitHub Marketplace
+[INSECURE] http://unsecured-blog.com | Personal Blog
+[SECURE] https://docs.python.org/3/ | Python 3 Documentation
+[SECURE] https://developer.mozilla.org/en-US/ | MDN Web Docs
+[SECURE] https://aws.amazon.com | Amazon Web Services (AWS)
+[SECURE] https://cloud.google.com | Google Cloud
+[SECURE] https://azure.microsoft.com | Microsoft Azure
+[INSECURE] http://internal.company.com | Internal Company Portal
+[SECURE] https://stripe.com | Stripe | Payment Processing Platform
+[SECURE] https://vercel.com | Vercel: Build and deploy the best web experiences
+[SECURE] https://nextjs.org | Next.js by Vercel - The React Framework
+[SECURE] https://react.dev | React – The library for web and native user interfaces
+[SECURE] https://tailwindcss.com | Tailwind CSS - Rapidly build modern websites
+[SECURE] https://www.typescriptlang.org | TypeScript: JavaScript With Syntax For Types
+[INSECURE] http://test-server.local | Local Test Server
+[SECURE] https://kubernetes.io | Kubernetes - Production-Grade Container Orchestration
+[SECURE] https://docker.com | Docker: Accelerated Container Application Development
+[SECURE] https://grafana.com | Grafana: The open observability platform
+[SECURE] https://prometheus.io | Prometheus - Monitoring system & time series database
+[SECURE] https://www.elastic.co | Elasticsearch, Kibana, Beats & Logstash
+[INSECURE] http://staging.example.org | Staging Environment
+[SECURE] https://www.mongodb.com | MongoDB: The Developer Data Platform
+[SECURE] https://www.postgresql.org | PostgreSQL: The World's Most Advanced Open Source Relational Database
+[SECURE] https://redis.io | Redis - The open source, in-memory data store
+[SECURE] https://kafka.apache.org | Apache Kafka
+[SECURE] https://www.nginx.com | NGINX Web Server, Load Balancer, Cache
+[INSECURE] http://ftp.example.net | Public FTP Server
+[SECURE] https://www.cloudflare.com | Cloudflare - The Web Performance & Security Company
+[SECURE] https://letsencrypt.org | Let's Encrypt - Free SSL/TLS Certificates
+[SECURE] https://www.eff.org | Electronic Frontier Foundation
+[SECURE] https://www.aclu.org | American Civil Liberties Union
+[SECURE] https://www.un.org | United Nations
+[INSECURE] http://intranet.university.edu | University Intranet
+[SECURE] https://www.nasa.gov | NASA
+[SECURE] https://www.esa.int | European Space Agency
+[SECURE] https://www.spacex.com | SpaceX
+[SECURE] https://www.blueorigin.com | Blue Origin
+[SECURE] https://www.virgingalactic.com | Virgin Galactic
+[INSECURE] http://legacy-dashboard.com | Old Admin Dashboard
+[SECURE] https://openai.com | OpenAI
+[SECURE] https://www.anthropic.com | Anthropic
+[SECURE] https://www.deepmind.com | DeepMind
+[SECURE] https://huggingface.co | Hugging Face – The AI community building the future
+[SECURE] https://pytorch.org | PyTorch
+[SECURE] https://www.tensorflow.org | TensorFlow
+[INSECURE] http://ml-api.internal | Internal ML API
+[SECURE] https://www.kaggle.com | Kaggle: Your Machine Learning and Data Science Community
+[SECURE] https://www.anaconda.com | Anaconda | The World's Most Popular Data Science Platform
+[SECURE] https://jupyter.org | Project Jupyter
+[SECURE] https://colab.research.google.com | Google Colaboratory
+[SECURE] https://www.w3schools.com | W3Schools Online Web Tutorials
+[INSECURE] http://old-tutorial-site.com | Deprecated Tutorial Site
+[SECURE] https://developer.apple.com | Apple Developer
+[SECURE] https://developer.android.com | Android Developers
+[SECURE] https://flutter.dev | Flutter - Build apps for any screen
+[SECURE] https://reactnative.dev | React Native · Learn once, write anywhere
+[SECURE] https://www.electronjs.org | Electron | Build cross-platform desktop apps
+[INSECURE] http://windows-xp-site.com | Windows XP Fan Site
